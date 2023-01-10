@@ -1,0 +1,6 @@
+spi:
+  clazz:
+    com.report.plugin.spi.UserPlugin: MyUserPlugin
+    com.report.plugin.spi.ShopPlugin: ExtDefaultShopPlugin
+server:
+  port: 8081

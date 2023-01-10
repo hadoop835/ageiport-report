@@ -1,0 +1,2 @@
+StandaloneExportProcessor=com.report.server.StandaloneExportProcessor
+StandaloneImportProcessor=com.report.server.StandaloneImportProcessor
